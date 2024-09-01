@@ -6,7 +6,7 @@ import os
 import asyncio
 from aiohttp import ClientTimeout, ClientSession
 
-TOKEN = "7380114617:AAEhsfj7L4jWolu2vztQYfTWuwvC13zMjbU"
+TOKEN = ""
 BOT_USERNAME: Final[str] = "@CSE_DIET_BOT"
 
 # Google Drive file IDs
